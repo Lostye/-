@@ -1,7 +1,7 @@
 # 智能农业环境监测系统
 西南民族大学电子专业的实训项目
 
-### 
+### 请使用该项目是标明出处 https://github.com/Lostye/Enviromental_monitoring_system.git
 
 ## 声明
 
