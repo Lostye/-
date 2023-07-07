@@ -7,7 +7,7 @@ https://github.com/Lostye/Enviromental_monitoring_system.git
 
 ## 运行
 
-烧录到stmf103c8t6芯片单片机，依照代码接线即可运行，wifi模块电脑连接使用网络调试助手接受输出
+烧录到stmf103c8t6芯片单片机，依照代码接线即可运行，wifi模块电脑连接使用网络调试助手接收输出
 
 ### 声明
 
