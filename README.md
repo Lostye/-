@@ -5,6 +5,10 @@
 
 https://github.com/Lostye/Enviromental_monitoring_system.git
 
+## 运行
+
+烧录到stmf103c8t6芯片单片机，依照代码接线即可运行，wifi模块电脑连接使用网络调试助手接受输出
+
 ### 声明
 
 本人非电子专业，32也是浅浅自学，也没有这个项目需要完成，闲暇之余帮朋友搞了这个项目，除了模版为通用调用，剩余均为自己实现。
