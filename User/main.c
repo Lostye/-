@@ -1,10 +1,8 @@
 /*
 	该文件由Lostye编写
 	详细信息请查看
-
-
-
-
+	https://github.com/Lostye/Enviromental_monitoring_system.git
+*/
 
 #include "stm32f10x.h"                  // Device header
 #include "Delay.h"
